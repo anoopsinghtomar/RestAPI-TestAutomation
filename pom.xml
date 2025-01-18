@@ -5,7 +5,7 @@
   <artifactId>RestAPI-TestAutomation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>RestAPI-TestAutomation</name>
-  <url>http://maven.apache.org</url>
+
   <dependencies>
   	<dependency> <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
     <groupId>io.rest-assured</groupId>
